@@ -29,5 +29,14 @@ body {
   margin: 0 auto;
 
   padding: 2em;
-  height: 300px;
+  /* height: 300px; */ /* Removed the restriction on the height */
 }
+
+.intro-content {
+  width: 50%; /* Set the width of .intro-content to go half the width of it's container */
+}
+
+/*
+* I commented out 'line 32'
+* I added line 35-37
+*/
