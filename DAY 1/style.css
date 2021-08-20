@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+
+
+.parent {
+  background-color: darkblue;
+  padding: 50px;
+  width: 80%;
+  margin: 0 auto;
+}
+.child {
+  background-color: lightblue;
+  padding: 120px 10px;
+  width: 50%;
+}
+
+
+
+/* HEIGHT */
+
+.container {
+  background: darkblue;
+  color: white;
+
+  width: 80%;
+  margin: 0 auto;
+
+  /* height: 250px; */
+}
