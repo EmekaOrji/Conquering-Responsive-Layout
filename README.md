@@ -9,3 +9,7 @@ I'm taking a course on Responsive Layout by Kevin, and I am so excited about it!
 - Learnt about the all powerful 'em's and 'rem's 😂😂. [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) uses them a lot and I've been so curious to find out why, now I know
 
 Check [this](https://youtu.be/_-aDOAMmDHI) out by Kevin
+
+## DAY 2
+
+Day 2 was quite less engaging and more of a reiteration of what was already learnt about 'em's and 'rem's, but this time in a more enlightening way. Hope to get my hands on and testing out what was learnt. Will update here soon.
