@@ -13,3 +13,5 @@ Check [this](https://youtu.be/_-aDOAMmDHI) out by Kevin
 ## DAY 2
 
 Day 2 was quite less engaging and more of a reiteration of what was already learnt about 'em's and 'rem's, but this time in a more enlightening way. Hope to get my hands on and testing out what was learnt. Will update here soon.
+
+- I was able to use the 'em' to create a little demo page, in which if I changed the value of the 'font-size' property in the 'body' element, every other element on the page would scale relatively(in response to the body). Checkout the demo [here]("https://codepen.io/emekaorji/pen/JjJPRLY)
