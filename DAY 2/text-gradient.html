@@ -7,6 +7,7 @@
   <title>Gradient Text</title>
   <style>
     body {
+      /* By Changing just the font size of the body, you scale every single element(in the body) that has uses the 'em' unit */
       font-size: 23em;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
@@ -25,7 +26,7 @@
       background-image: url("https://www.wallpapertip.com/wmimgs/39-394898_best-hd-backgrounds-for-editing.jpg");
       -webkit-background-clip: text;
       background-clip: text;
-      background-size: 100%;
+      background-size: 100%; /* Although the unit of the background-size value is in "%", it actually means 100% of whatever the font size in that element is. And in this case, since there is no font-size property declared, it inherits it from it's parent element ".container" which in turn inherits it from the body element. */
       color: transparent;
       padding: .12em;
     }
