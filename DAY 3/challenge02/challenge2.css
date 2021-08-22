@@ -23,11 +23,15 @@ body {
   font-family: sans-serif;
 }
 
+.bigger-container { /* Added a new element '.bigger-container' */
+  width: 100%;
+  background: #23424a;
+}
+
 .container {
   width: 80%;
   max-width: 750px;
   margin: 0 auto;
-  background: #23424a;
   color: white;
   padding: 50px 0;
 }
@@ -35,3 +39,33 @@ body {
 .intro-content {
   width: 50%;
 }
+
+.another-container { /* Added a new element '.another-container' */
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+/* SOLUTION
+*
+* 1) I wrapped the '.container' in another 
+* element '.bigger-container', in order to 
+* not mess with the already set width of 
+* the '.container'. I made this new container 
+* to now have the background and then set 
+* the width to 100% of the viewport. 
+* So no matter how large or small the viewport 
+* is, the background will always extend all 
+* the way across!
+*
+* 2) In order to limit the max width of the 
+* text in the bottom area, and make it align 
+* properly with the width of the '.container', 
+* instead of going all the way across, I 
+* wrapped the whole text down there with a 
+* div(with class '.another-container') and 
+* assigned to it the same properties in the 
+* upper '.container' except the padding and 
+* color which I left at a default value
+*
+*/
