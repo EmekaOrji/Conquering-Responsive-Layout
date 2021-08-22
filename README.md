@@ -15,3 +15,11 @@ Check [this](https://youtu.be/_-aDOAMmDHI) out by Kevin
 Day 2 was quite less engaging and more of a reiteration of what was already learnt about 'em's and 'rem's, but this time in a more enlightening way. Hope to get my hands on and testing out what was learnt. Will update here soon.
 
 - I was able to use the 'em' to create a little demo page, in which if I changed the value of the 'font-size' property in the 'body' element, every other element on the page would scale relatively(in response to the body). Checkout the demo [here]("https://codepen.io/emekaorji/pen/JjJPRLY)
+
+## Day 3
+
+- Learned to use the 'max-width' property
+- The 'max-width' property would help in making your webpage responsive even on very large screens
+- It limits the size to which a container can grow (gives it a threshold wideness) in order not have text flowing all the way from one end of a large screen to the other, as this would make texts un-easy to read.
+
+Checkout my solution to today's challenge [here on codepen]("https://codepen.io/emekaorji/pen/yLXBpoR")
