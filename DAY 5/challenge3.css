@@ -13,5 +13,13 @@ body {
 }
 
 .intro-content {
+  width: 80%;
+  /* background: red; */
+  margin: 0 auto;
+  padding: 6em 2em;
+}
+
+.inner-content {
+  width: 50%;
   color: #ffffff;
 }
