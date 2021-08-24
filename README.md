@@ -23,3 +23,18 @@ Day 2 was quite less engaging and more of a reiteration of what was already lear
 - It limits the size to which a container can grow (gives it a threshold wideness) in order not have text flowing all the way from one end of a large screen to the other, as this would make texts un-easy to read.
 
 Checkout my solution to today's challenge [here on codepen]("https://codepen.io/emekaorji/pen/yLXBpoR")
+
+## Day 4
+
+Day 4 had no challenge in it, but itself was a challenge
+
+- Tried as much as I could to understand how the **_vh_**, **_vw_**, **_vmax_**, **_vmin_** works
+- Learnt that they could be used to create a simple responsive header that will scale up or down with respect to the user's screen/viewport size
+
+## Day 5
+
+- It is not as easy to create a layout as it may seem before you get your hands on it
+- No matter how simple a tutorial may seem, get your hands dirty and do something with it. Try to model the same thing or make use of the concept from the tutorial to model another thing✌
+- Today's 'Challenge03' was to create [this]("https://www.figma.com/file/dGPcL6Ym2avOt4736aHb2B/conquer-responsive-layout-week-1-final-challenge?node-id=0%3A1). Explanation on how I went about it are posted as comments in the [last commit of the challenge]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/8b178913a5a8abd91d83069200f6eb5a98470493")
+
+Here is [my solution on codepen]("https://codepen.io/emekaorji/pen/mdwbzpK")
