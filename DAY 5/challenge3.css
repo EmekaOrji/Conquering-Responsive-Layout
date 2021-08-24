@@ -16,10 +16,36 @@ body {
   width: 80%;
   /* background: red; */
   margin: 0 auto;
-  padding: 6em 2em;
+  padding: 6em .1em;
 }
 
 .inner-content {
-  width: 50%;
+  width: 60%;
   color: #ffffff;
+}
+
+h1 {
+  margin-bottom: .3em;
+}
+
+p {
+  font-size: .9em;
+  margin-bottom: 3em;
+}
+
+a {
+  text-decoration: none;
+  background: #ffffff;
+  color: #e48407;
+  padding: 1em 2em;
+  border-radius: 2em;
+  transition: 40ms all ease-in-out;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+a:hover {
+  box-shadow: .1em .1em 3em -.8em #000000;
+  color: #ffffff;
+  background: #e48407;
 }
