@@ -14,7 +14,7 @@ Check [this](https://youtu.be/_-aDOAMmDHI) out by Kevin
 
 Day 2 was quite less engaging and more of a reiteration of what was already learnt about 'em's and 'rem's, but this time in a more enlightening way. Hope to get my hands on and testing out what was learnt. Will update here soon.
 
-- I was able to use the 'em' to create a little demo page, in which if I changed the value of the 'font-size' property in the 'body' element, every other element on the page would scale relatively(in response to the body). Checkout the demo [here]("https://codepen.io/emekaorji/pen/JjJPRLY)
+- I was able to use the 'em' to create a little demo page, in which if I changed the value of the 'font-size' property in the 'body' element, every other element on the page would scale relatively(in response to the body). Checkout the demo [here](https://codepen.io/emekaorji/pen/JjJPRLY)
 
 ## Day 3
 
@@ -22,7 +22,7 @@ Day 2 was quite less engaging and more of a reiteration of what was already lear
 - The 'max-width' property would help in making your webpage responsive even on very large screens
 - It limits the size to which a container can grow (gives it a threshold wideness) in order not have text flowing all the way from one end of a large screen to the other, as this would make texts un-easy to read.
 
-Checkout my solution to today's challenge [here on codepen]("https://codepen.io/emekaorji/pen/yLXBpoR")
+Checkout my solution to today's challenge [here on codepen](https://codepen.io/emekaorji/pen/yLXBpoR)
 
 ## Day 4
 
@@ -35,9 +35,9 @@ Day 4 had no challenge in it, but itself was a challenge
 
 - It is not as easy to create a layout as it may seem before you get your hands on it
 - No matter how simple a tutorial may seem, get your hands dirty and do something with it. Try to model the same thing or make use of the concept from the tutorial to model another thing✌
-- Today's 'Challenge03' was to create [this]("https://www.figma.com/file/dGPcL6Ym2avOt4736aHb2B/conquer-responsive-layout-week-1-final-challenge?node-id=0%3A1). Explanation on how I went about it are posted as comments in the [last commit of the challenge]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/8b178913a5a8abd91d83069200f6eb5a98470493")
+- Today's 'Challenge03' was to create [this](https://www.figma.com/file/dGPcL6Ym2avOt4736aHb2B/conquer-responsive-layout-week-1-final-challenge?node-id=0%3A1). Explanation on how I went about it are posted as comments in the [last commit of the challenge](https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/8b178913a5a8abd91d83069200f6eb5a98470493)
 
-Here is [my solution on codepen]("https://codepen.io/emekaorji/pen/mdwbzpK")
+Here is [my solution on codepen](https://codepen.io/emekaorji/pen/mdwbzpK)
 
 ## Day 6
 
@@ -52,7 +52,7 @@ Here is [my solution on codepen]("https://codepen.io/emekaorji/pen/mdwbzpK")
 ## Day 8
 
 - Intro to flexbox by Kevin Powell. And I tell you even though I already made use of flexbox previously, his approach is amazingly hassle free.
-- Learnt a new way to add spaces in between objects with the 'selector1 + selector2' hack. (Implemented it into my challenge file, you can check it out [here]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/ed0bd80d1f262da512fa9cafc3973ac721cdc6aa#r55538740"))
+- Learnt a new way to add spaces in between objects with the 'selector1 + selector2' hack. (Implemented it into my challenge file, you can check it out [here](https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/ed0bd80d1f262da512fa9cafc3973ac721cdc6aa#r55538740))
 
 Had a swell time solving the challenge of today!!
-Solution [here]("https://codepen.io/emekaorji/pen/GREJLMV")
+Solution [here](https://codepen.io/emekaorji/pen/GREJLMV)
