@@ -56,3 +56,7 @@ Here is [my solution on codepen](https://codepen.io/emekaorji/pen/mdwbzpK)
 
 Had a swell time solving the challenge of today!!
 Solution [here](https://codepen.io/emekaorji/pen/GREJLMV)
+
+## Day 9
+
+- With many updates I'm making to this READEME, I found out I had been creating links on markdown in a totally wrong way. Fixed that already!!
