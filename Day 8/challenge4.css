@@ -101,5 +101,5 @@ h1 {
 }
 
 .second_section p {
-    color: #3A3A3A; /* This like in the comment above, specifically selects all the p tags in this element and styles it witha different color */
+    color: #3A3A3A; /* This like in the comment above, specifically selects all the p tags in this element and styles it with a different color */
 }
