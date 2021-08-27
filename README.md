@@ -38,3 +38,20 @@ Day 4 had no challenge in it, but itself was a challenge
 - Today's 'Challenge03' was to create [this]("https://www.figma.com/file/dGPcL6Ym2avOt4736aHb2B/conquer-responsive-layout-week-1-final-challenge?node-id=0%3A1). Explanation on how I went about it are posted as comments in the [last commit of the challenge]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/8b178913a5a8abd91d83069200f6eb5a98470493")
 
 Here is [my solution on codepen]("https://codepen.io/emekaorji/pen/mdwbzpK")
+
+## Day 6
+
+- I understood that using em's for font-sizes multiple time may compound one upon another and make things get really frustrating to manage
+- I would rather use rem's when setting the font-size of an element inside another element, as that would make it relative to the default font-size of the browser or that of the body element
+
+## Day 7
+
+- Didn't do much today
+- Got the solution to "challenge03" and found better ways in which I would have made my css dry and easier to understand
+
+## Day 8
+
+- Intro to flexbox by Kevin Powell. And I tell you even though I already made use of flexbox previously, his approach is amazingly hassle free.
+- Learnt a new way to add spaces in between objects with the 'selector1 + selector2' hack. (Implemented it into my challenge file, you can check it out [here]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/ed0bd80d1f262da512fa9cafc3973ac721cdc6aa#r55538740"))
+
+Had a swell time solving the challenge of today!!
