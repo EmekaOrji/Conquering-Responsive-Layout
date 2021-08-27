@@ -50,6 +50,11 @@ h1 {
 .col {
     /* these are now flex items */
     width: 100%;
+    text-align: center;
+}
+
+.col + .col {
+    margin-left: 1em;
 }
 
 .hero {
@@ -80,4 +85,21 @@ h1 {
 .btn:hover,
 .btn:focus {
     opacity: .75; 
+}
+
+.third_section { /* Gave this class' element a more specific styling than its default styling */
+    padding: 2em; /* Reduce the padding to '2em' compare to the default larger padding in '.hero' */
+    background: #136C72; /* Set a different backgroung from that of '.hero' */
+}
+
+.second_section {
+    padding: 4em 0em; /* Set a padding for this element different from that of its co-class '.container' */
+}
+
+.second_section h2 {
+    color: #87629A; /* This more specific selection, selects all the 'h2' inside '.second_section' element and styled it with a different color */
+}
+
+.second_section p {
+    color: #3A3A3A; /* This like in the comment above, specifically selects all the p tags in this element and styles it witha different color */
 }
