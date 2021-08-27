@@ -55,3 +55,4 @@ Here is [my solution on codepen]("https://codepen.io/emekaorji/pen/mdwbzpK")
 - Learnt a new way to add spaces in between objects with the 'selector1 + selector2' hack. (Implemented it into my challenge file, you can check it out [here]("https://github.com/EmekaOrji/Conquering-Responsive-Layout/commit/ed0bd80d1f262da512fa9cafc3973ac721cdc6aa#r55538740"))
 
 Had a swell time solving the challenge of today!!
+Solution [here]("https://codepen.io/emekaorji/pen/GREJLMV")
